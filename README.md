@@ -1,7 +1,6 @@
 [![](https://github.com/Danish903/Danish903/blob/main/img/dino.gif)](https://chromedino.com)
 
 <p align="center">
-[![](https://github.com/Danish903/Danish903/blob/main/img/mario.gif)](https://chromedino.com)
    <img width="600" src="https://github.com/Danish903/Danish903/blob/main/img/mario.gif" alt="Material Bread logo">
 </p>
 
