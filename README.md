@@ -1,7 +1,8 @@
 [![](https://github.com/Danish903/Danish903/blob/main/img/dino.gif)](https://chromedino.com)
 
+<p align="center">
 [![](https://github.com/Danish903/Danish903/blob/main/img/mario.gif)](https://chromedino.com)
-
+</p>
 <!--
 **Danish903/Danish903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
