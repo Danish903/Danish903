@@ -1,7 +1,9 @@
 
 
 <p align="center">
+   <a href="https://supermario-game.com/">
    <img width="600" src="https://github.com/Danish903/Danish903/blob/main/img/mario.gif" alt="Material Bread logo">
+   </a>
 </p>
 
 <!--
